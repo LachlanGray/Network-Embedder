@@ -22,4 +22,4 @@ There are also:
 - a visualization that compares the reconstructed network side-by-side with the original network
 - a tool to save an mp4 file of the optimization process in two dimensions
 
-Instead of explaining it here, there are examples of how to use everything in example.ipynb. 
+There are examples of how to use everything in example.ipynb :)
